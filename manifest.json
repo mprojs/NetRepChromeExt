@@ -1,0 +1,12 @@
+{
+  "name": "NET REP",
+  "version": "0.0.1",
+  "manifest_version": 2,
+  "description": "This extension add to Chrome Dev Tools a new NET REP Panel that allows easily copy network request report to clipboard.",
+  "devtools_page": "devtools.html",
+  "permissions": [
+    "tabs",
+    "http://*/*",
+    "https://*/*"
+  ]
+}
